@@ -1,0 +1,7 @@
+# Python 3.10.14 (see README — a bare `python` may resolve to 2.7 on macOS)
+numpy<2.0            # nuScenes devkit is not NumPy 2.x clean
+scipy                # Hungarian matching, Pearson correlation
+matplotlib           # phase2_speed_grouped.py charts
+nuscenes-devkit      # dataset access, box_velocity
+pyquaternion         # quaternion -> yaw
+shapely              # phase2_iou.py only — rotated-rectangle intersection

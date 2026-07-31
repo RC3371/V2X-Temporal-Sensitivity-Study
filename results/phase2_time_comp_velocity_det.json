@@ -1,0 +1,66 @@
+{
+  "velocity_method": "velocity_det",
+  "max_matching_dist": 2.0,
+  "gaps": [
+    {
+      "gap_ms": 200,
+      "total_pairs": 99168,
+      "moving_pairs": 36109,
+      "cost_raw": 0.5300642655866942,
+      "cost_comp": 0.3517622428720949,
+      "reduction_pct": 33.63781229758022,
+      "corr_raw": 0.7939111067681416,
+      "corr_comp": 0.17832604233531518,
+      "cost_raw_moving": 0.8778418513196597,
+      "cost_comp_moving": 0.3857192256161694,
+      "reduction_pct_moving": 56.06051078149012,
+      "median_raw": 0.2797505208633078,
+      "median_comp": 0.21082952646259823
+    },
+    {
+      "gap_ms": 300,
+      "total_pairs": 99168,
+      "moving_pairs": 38763,
+      "cost_raw": 0.6593630308203946,
+      "cost_comp": 0.37324483999123714,
+      "reduction_pct": 43.39311994382861,
+      "corr_raw": 0.8959439375930067,
+      "corr_comp": 0.24505737137841424,
+      "cost_raw_moving": 1.1718730577340581,
+      "cost_comp_moving": 0.4360794463248195,
+      "reduction_pct_moving": 62.78782557148078,
+      "median_raw": 0.32205890156053385,
+      "median_comp": 0.22106043551575372
+    },
+    {
+      "gap_ms": 400,
+      "total_pairs": 99168,
+      "moving_pairs": 41372,
+      "cost_raw": 0.791470290799276,
+      "cost_comp": 0.39720555249052564,
+      "reduction_pct": 49.814218283619624,
+      "corr_raw": 0.9390870568927578,
+      "corr_comp": 0.3005045764927208,
+      "cost_raw_moving": 1.4360283572017198,
+      "cost_comp_moving": 0.4858820477394374,
+      "reduction_pct_moving": 66.1648709579636,
+      "median_raw": 0.35440395278398373,
+      "median_comp": 0.23193223695075313
+    },
+    {
+      "gap_ms": 500,
+      "total_pairs": 99168,
+      "moving_pairs": 43789,
+      "cost_raw": 0.9250488966810981,
+      "cost_comp": 0.4228969967682051,
+      "reduction_pct": 54.28382237031144,
+      "corr_raw": 0.960453728348299,
+      "corr_comp": 0.3439383970433022,
+      "cost_raw_moving": 1.6776180319664997,
+      "cost_comp_moving": 0.5342447999093122,
+      "reduction_pct_moving": 68.15456261619508,
+      "median_raw": 0.37825971421965976,
+      "median_comp": 0.24223180020431867
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "velocity_method": "velocity_curve",
+  "max_matching_dist": 2.0,
+  "gaps": [
+    {
+      "gap_ms": 200,
+      "total_pairs": 99168,
+      "moving_pairs": 36109,
+      "cost_raw": 0.5300642655866942,
+      "cost_comp": 0.4374402007697676,
+      "reduction_pct": 17.47411980590824,
+      "corr_raw": 0.7939111067681416,
+      "corr_comp": 0.5821482636709474,
+      "cost_raw_moving": 0.8778418513196597,
+      "cost_comp_moving": 0.617727773667585,
+      "reduction_pct_moving": 29.63108642644973,
+      "median_raw": 0.2797505208633078,
+      "median_comp": 0.24350091762689757
+    },
+    {
+      "gap_ms": 300,
+      "total_pairs": 99168,
+      "moving_pairs": 38763,
+      "cost_raw": 0.6593630308203946,
+      "cost_comp": 0.5146524907272924,
+      "reduction_pct": 21.947020583342393,
+      "corr_raw": 0.8959439375930067,
+      "corr_comp": 0.7195671700836359,
+      "cost_raw_moving": 1.1718730577340581,
+      "cost_comp_moving": 0.7920555137162274,
+      "reduction_pct_moving": 32.41115080777167,
+      "median_raw": 0.32205890156053385,
+      "median_comp": 0.2697300883324052
+    },
+    {
+      "gap_ms": 400,
+      "total_pairs": 99168,
+      "moving_pairs": 41372,
+      "cost_raw": 0.791470290799276,
+      "cost_comp": 0.5954477808775106,
+      "reduction_pct": 24.766881612676787,
+      "corr_raw": 0.9390870568927578,
+      "corr_comp": 0.7911022155251218,
+      "cost_raw_moving": 1.4360283572017198,
+      "cost_comp_moving": 0.9525281580069688,
+      "reduction_pct_moving": 33.66926542710559,
+      "median_raw": 0.35440395278398373,
+      "median_comp": 0.29466602801543995
+    },
+    {
+      "gap_ms": 500,
+      "total_pairs": 99168,
+      "moving_pairs": 43789,
+      "cost_raw": 0.9250488966810981,
+      "cost_comp": 0.6783270797613998,
+      "reduction_pct": 26.67121898149275,
+      "corr_raw": 0.960453728348299,
+      "corr_comp": 0.830776863963183,
+      "cost_raw_moving": 1.6776180319664997,
+      "cost_comp_moving": 1.1012906413327017,
+      "reduction_pct_moving": 34.35391010659491,
+      "median_raw": 0.37825971421965976,
+      "median_comp": 0.32053484255522174
+    }
+  ]
+}

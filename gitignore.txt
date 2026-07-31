@@ -1,0 +1,43 @@
+# ---- rename this file to .gitignore ----
+
+# Tracker outputs — far over GitHub's 100 MB file limit
+results_for_motion.json
+results.json
+results/**/results_for_motion.json
+results/**/results.json
+
+# Datasets and environments — never commit
+data/
+nuscenes/
+v2x-real/
+mctrack-env/
+*.npy
+*.npz
+*.pcd
+*.bin
+
+# Scene exports (regenerate with export_scene.py)
+scene_export.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Logs
+*.log
+logs/
